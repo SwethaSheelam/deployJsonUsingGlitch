@@ -47,5 +47,23 @@
       "text": "Awesome post!",
       "postId": "5"
     }
+  ],
+  "todos": [
+    {
+      "id": "1",
+      "text": "Great",
+      "postId": "1"
+    },
+    {
+      "id": "2",
+      "text": "Very good",
+      "postId": "2"
+    },
+    {
+      "id": "3",
+      "text": "I enjoyed .",
+      "postId": "3"
+    }
   ]
+
 }
